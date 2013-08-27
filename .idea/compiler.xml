@@ -2,6 +2,12 @@
 <project version="4">
   <component name="CompilerConfiguration">
     <option name="DEFAULT_COMPILER" value="Javac" />
+    <excludeFromCompile>
+      <directory url="file://$PROJECT_DIR$/apptentive-android-sdk/gen" includeSubdirectories="true" />
+      <directory url="file://$PROJECT_DIR$/apptentive-example-alternate/gen" includeSubdirectories="true" />
+      <directory url="file://$PROJECT_DIR$/apptentive-dev/gen" includeSubdirectories="true" />
+      <directory url="file://$PROJECT_DIR$/apptentive-example/gen" includeSubdirectories="true" />
+    </excludeFromCompile>
     <resourceExtensions />
     <wildcardResourcePatterns>
       <entry name="?*.properties" />
