@@ -1,11 +1,10 @@
-# Android intermediate build artifacts
-gen/
-out/
+.DS_Store
 
-# IntelliJ noise
+# Android Studio
 *.iws
 .idea/workspace.xml
 .idea/tasks.xml
-
-
-.DS_Store
+.gradle/
+gen/
+out/
+build/
