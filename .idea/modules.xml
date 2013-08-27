@@ -3,7 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/ApptentiveAndroidProject.iml" filepath="$PROJECT_DIR$/ApptentiveAndroidProject.iml" />
-      <module fileurl="file://$PROJECT_DIR$/ApptentiveAndroidProject.iml" filepath="$PROJECT_DIR$/ApptentiveAndroidProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/apptentive-android.iml" filepath="$PROJECT_DIR$/apptentive-android.iml" />
       <module fileurl="file://$PROJECT_DIR$/apptentive-android-sdk/apptentive-android-sdk.iml" filepath="$PROJECT_DIR$/apptentive-android-sdk/apptentive-android-sdk.iml" />
       <module fileurl="file://$PROJECT_DIR$/apptentive-dev/apptentive-dev.iml" filepath="$PROJECT_DIR$/apptentive-dev/apptentive-dev.iml" />
       <module fileurl="file://$PROJECT_DIR$/apptentive-example/apptentive-example.iml" filepath="$PROJECT_DIR$/apptentive-example/apptentive-example.iml" />
