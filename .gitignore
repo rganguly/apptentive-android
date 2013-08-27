@@ -4,6 +4,8 @@ out/
 
 # IntelliJ noise
 *.iws
-*.ipr
+.idea/workspace.xml
+.idea/tasks.xml
+
 
 .DS_Store
